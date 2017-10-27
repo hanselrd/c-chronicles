@@ -1,3 +1,3 @@
 # c-chronicles
 
-https://travis-ci.org/hanselrd/c-chronicles.svg?branch=master
+[![Build Status](https://travis-ci.org/hanselrd/c-chronicles.svg?branch=master)](https://travis-ci.org/hanselrd/c-chronicles)
